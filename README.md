@@ -1,5 +1,5 @@
 # 👨🏽‍💻 GSedovim
-**`Analista de Dados`
+`📈Analista de Dados`
 
 
 Atuar na área de Análise de Dados, Ciência de Dados ou Engenharia de Dados.
