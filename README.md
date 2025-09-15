@@ -14,7 +14,7 @@ de decisão estratégica.
         <img 
             alt="Total Stars" 
             title="Total Stars GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/GSedovim?color=%23E1AD0E&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/GSedovim?color=%23E1AD0E&style=for-the-badge&labelColor=C79600&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/GSedovim?tab=followers">
@@ -35,25 +35,31 @@ de decisão estratégica.
     title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
 <img 
     align="left" 
-    alt="Python"
-    title="Python" 
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 <img 
     align="left" 
-    alt="Blender" 
-    title="Blender"
+    alt="Unreal Engine" 
+    title="Unreal Engine"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Blender"
+    title="Blender" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"
 />
 <img 
     align="left" 
@@ -61,14 +67,5 @@ de decisão estratégica.
     title="Maya" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" 
-    
-/>
-<img 
-    align="left" 
-    alt="Unreal Engine"
-    title="Unreal Engine" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg"
 />
