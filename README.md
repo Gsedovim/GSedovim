@@ -72,7 +72,3 @@ de decisão estratégica.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg"  
 />
-
-
-<br/>
-<br/>
